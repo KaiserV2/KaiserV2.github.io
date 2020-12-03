@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Peking University,  2017 -- 2021(Expected)
+* B.S. in Computer Science, Peking University, Sept. 2017 -- July. 2021(Expected)
+* Exchange Program, University of British Columbia, Sept. 2019 -- Dec. 2019
 
 Honors and Awards
 ======
