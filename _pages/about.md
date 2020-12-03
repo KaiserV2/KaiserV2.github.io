@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziqi Pang, a senior year undergraduate student majoring in computer science in Peking University. My research interest lies widely in the scope of computer vision and machine learning and I hope to prolong my career in the same field. I am thankful for all the people that have helped me, especially my parents and my dear mentors Prof. [Shiliang Zhang](https://www.pkuvmc.com/) and Prof. [Martial Hebert](https://www.ri.cmu.edu/ri-faculty/martial-hebert/).
+I am Wilhelm Chen, a senior year undergraduate student majoring in computer science in Peking University. My research interest lies widely in the scope of computer network and streaming database and I hope to prolong my career in the same field. I am thankful for all the people that have helped me, especially my parents and my dear mentors Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/), Prof. [Junchen Jiang](https://people.cs.uchicago.edu/~junchenj/) and Prof. [Zaoxing Liu](https://zaoxing.github.io/).
 
-For the time being, I am applying for graduate school (Master Degree) in computer science. Simultaneously, I am enthusiastic in exploring and expanding my career for the next half year. Please contact me if you are interested.
 
 # Research Interest
 Because of the diversity of my past projects, I bear wide interest in various topics. I have strong motivation in enabling computer vision systems to <b>Understand Vision from Shape and Semantic Information</b>, which is critical to expanding the effectiveness of computer vision methods. 
@@ -27,7 +26,7 @@ Specifically, I have strong interest in three tasks:
 [Weekly Seminar on Deep Learning](http://tianyuanzhang.com/teaching/2019-fall-dl-pku)
 
 # Resume
-[Ziqi Pang Resume](https://github.com/ziqipang/ziqipang.github.io/blob/master/files/ZiqiPang_Resume.pdf)
+[Wilhelm Chen Resume](https://github.com/KaiserV2/KaiserV2.github.io/blob/master/files/PeiqingChenResume.pdf)
 
 # Brief Experience 
 During the summer of 2019, I experienced a wonderful period of time at Carnegie Mellon University during my summer research intern for Prof. [Martial Hebert](https://www.ri.cmu.edu/ri-faculty/martial-hebert/). We worked on exploring learning better feature representation for few-shot learning. Throughout the process, [Zhiyuan Hu](https://github.com/BinahHu) from Tsinghua University collaborated closely with me, [Yuxiong Wang](https://www.ri.cmu.edu/ri-people/yuxiong-wang/) and [Pavel Tokmakov](https://pvtokmakov.github.io/home/) offered their valuable guidance on research. The paper is currently on [Learning Generalizable Representations via Diverse Supervision](https://arxiv.org/abs/1911.12911).
