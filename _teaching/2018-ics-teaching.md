@@ -2,7 +2,6 @@
 title: Teaching Assistant of "Algorithm Design and Analysis"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-ics
 venue: "Peking University, Department of Computer Science"
 date: 2020-02-27 to 2020/06/15
 location: "Beijing, China"
