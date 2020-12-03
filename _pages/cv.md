@@ -15,10 +15,10 @@ Education
 
 Honors and Awards
 ======
-<\b>National Scholarship<\b> (<i>Sept. 2020, Top 1% overall in School</i>)
-Li Wai Wing Scholarship (<i>Sep. 2018, Top 10% Overall in School</i>)
-DTZ Scholarship (<i>Sept. 2019, Top 5% Overall in School</i>)
-Outstanding Student Award (<i>Sept. 2020, Sept. 2019, Sept. 2019</i>)
+<\b>National Scholarship<\b> (<i>Sept. 2020, Top 1% overall in School</i>);
+Li Wai Wing Scholarship (<i>Sep. 2018, Top 10% Overall in School</i>);
+DTZ Scholarship (<i>Sept. 2019, Top 5% Overall in School</i>);
+Outstanding Student Award (<i>Sept. 2020, Sept. 2019, Sept. 2019</i>);
 
 
 Work experience
