@@ -15,7 +15,7 @@ Education
 
 Honors and Awards
 ======
-National Scholarship (<i>Sept. 2020, Top 1% overall in School</i>)
+<\b>National Scholarship<\b> (<i>Sept. 2020, Top 1% overall in School</i>)
 Li Wai Wing Scholarship (<i>Sep. 2018, Top 10% Overall in School</i>)
 DTZ Scholarship (<i>Sept. 2019, Top 5% Overall in School</i>)
 Outstanding Student Award (<i>Sept. 2020, Sept. 2019, Sept. 2019</i>)
@@ -23,11 +23,11 @@ Outstanding Student Award (<i>Sept. 2020, Sept. 2019, Sept. 2019</i>)
 
 Work experience
 ======
-* Robotics Institute, Carnegie Mellon University, Research Intern for Prof. Martial Hebert, June 2019 -- Aug 2019
-  * Created a few-shot learning benchmark from ADE20K to imitate realistic conditions of long-tail distribution, multiple information sources
-  * Explored representation learning from multiple information sources by multi-task learning and curriculum learning
-  * Improved few-shot learning accuracy by 10% to 20% relatively
-  * Paper at [Learning Generalizable Representations via Diverse Supervision](https://arxiv.org/abs/1911.12911)
+* Department of Computer Science, University of Chicago, Research Intern for Prof. Junchen Jiang, June 2020 -- Present
+  * Better telemetry for network What-if analysis
+    * Study a wide range of network emulators and find that their prediction accuracy can be improved by a more accurate L-4 network telemetry system
+    * Deploy CM-sketch on programmable switches to measure network data stream
+    * Propose a tighter error bound of CM-sketch using real-time traffic pattern and give a more accurate telemetry
 * Network and Big Data Group, Peking University, Research Intern for Prof. Tong Yang, Feb. 2019 -- Now
   * Out of Many We are One: Measuring Item Batch with Clock-sketch Pose Guided Person Image Synthesis
     * Generalize a data stream pattern Item Batch, which means a batch of items with same ID in a data stream
