@@ -8,22 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Wilhelm Chen, a senior year undergraduate student majoring in computer science in Peking University. My research interest lies widely in the scope of computer network and streaming database and I hope to prolong my career in the same field. I am thankful for all the people that have helped me, especially my parents and my dear mentors Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/), Prof. [Junchen Jiang](https://people.cs.uchicago.edu/~junchenj/) and Prof. [Zaoxing Liu](https://zaoxing.github.io/).
+I am Wilhelm Chen, a senior year undergraduate student majoring in computer science in Peking University. My research interests include various aspects of databases and data analysis and I hope to prolong my career in the same field. I am thankful for all the people that have helped me, especially my parents and my dear mentors Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/), Prof. [Junchen Jiang](https://people.cs.uchicago.edu/~junchenj/) and Prof. [Zaoxing Liu](https://zaoxing.github.io/).
 
 
-# Research Interest
-Because of the diversity of my past projects, I bear wide interest in various topics. I have strong motivation in enabling computer vision systems to <b>Understand Vision from Shape and Semantic Information</b>, which is critical to expanding the effectiveness of computer vision methods. 
-
-Specifically, I have strong interest in three tasks:
-* <b>Few-Shot Learning</b>: how to transfer to new domains with few examples?
-* <b>Multi-Task Learning</b>: why seemingly related tasks hardly benefit each other?
-* <b>Image Synthesis</b>: how to synthesize outputs retaining the details and structure from source images?
-
-# Publication
-[Learning Generalizable Representations via Diverse Supervision](https://arxiv.org/abs/1911.12911), <b> Ziqi Pang\*</b>, Zhiyuan Hu\*, Pavel Tokmakov, Yuxiong Wang, Martial Hebert (\* indicates equal contribution) 
-
-# Seminar
-[Weekly Seminar on Deep Learning](http://tianyuanzhang.com/teaching/2019-fall-dl-pku)
+# Design Project
+[PKU Ranking](http://pkuranking.com/), Peiqing Chen, Zikun Li, Yuquan Gao. Instructor: [Kaigui Bian](http://net.pku.edu.cn/~bkg/)
 
 # Resume
 [Wilhelm Chen Resume](https://github.com/KaiserV2/KaiserV2.github.io/blob/master/files/PeiqingChenResume.pdf)
