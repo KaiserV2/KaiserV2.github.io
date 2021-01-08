@@ -24,7 +24,7 @@ Outstanding Student Award (<i>Sept. 2020, Sept. 2019, Sept. 2019</i>);
 
 Publications
 ======
-* Peiqing Chen, Dong Chen, Lingxiao Zheng, Jizhou Li, Tong Yang. Out of ManyWe are One: Measuring Item Batch with Clock-Sketch. ACM SIGMOD 2021
+* **Peiqing Chen**, Dong Chen, Lingxiao Zheng, Jizhou Li, Tong Yang. Out of ManyWe are One: Measuring Item Batch with Clock-Sketch. ACM SIGMOD 2021
 
 
 Work experience
