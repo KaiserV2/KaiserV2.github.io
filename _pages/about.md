@@ -19,6 +19,6 @@ I am Peiqing Chen, a PhD student in Electronic Computer Engineering department i
 [PKU Ranking](http://pkuranking.com/), Peiqing Chen, Zikun Li, Yuquan Gao. Instructor: [Kaigui Bian](http://net.pku.edu.cn/~bkg/)
 
 # Resume
-[Peiqing Chen Resume](https://github.com/KaiserV2/KaiserV2.github.io/blob/master/files/CV_Peiqing Chen.pdf)
+[Peiqing Chen Resume]("https://github.com/KaiserV2/KaiserV2.github.io/blob/master/files/CV_Peiqing Chen.pdf")
 
 
