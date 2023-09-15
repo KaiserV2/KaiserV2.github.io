@@ -11,7 +11,7 @@ redirect_from:
 I am Peiqing Chen, a PhD student in Computer Science department in The University of Maryland with my advisor Prof. [Zaoxing Liu](https://zaoxing.github.io/). My research interests focus on systems and theory, especially networked systems. I am thankful for all the people that have helped me, especially my parents and my dear mentors Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) and Prof. [Junchen Jiang](https://people.cs.uchicago.edu/~junchenj/).
 
 # Publications
-Yinda Zhang, **Peiqing Chen**. Zaoxing LiuOctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores. to appear in USENIX NSDI 2024 
+Yinda Zhang, **Peiqing Chen**. Zaoxing Liu. OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores. to appear in USENIX NSDI 2024 
 
 **Peiqing Chen**, Dong Chen, Lingxiao Zheng, Jizhou Li, Tong Yang. Out of ManyWe are One: Measuring Item Batch with Clock-Sketch. ACM SIGMOD 2021 [link](https://github.com/KaiserV2/KaiserV2.github.io/blob/master/files/SIGMOD21.pdf)
 
