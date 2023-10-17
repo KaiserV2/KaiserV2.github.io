@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Peiqing Chen, a PhD student in Computer Science department in The University of Maryland with my advisor Prof. [Zaoxing Liu](https://zaoxing.github.io/). My research interests focus on systems and theory, especially networked systems. I am thankful for all the people that have helped me, especially my parents and my dear mentors Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) and Prof. [Junchen Jiang](https://people.cs.uchicago.edu/~junchenj/).
+I am a third-year Ph.D. student in the Department of Computer Science at the University of Maryland College Park, advised by Prof. [Zaoxing Liu](https://zaoxing.github.io/). Before joining UMD, I received my B.S. from Peking University, advised by [Tong Yang](http://net.pku.edu.cn/~yangtong/).
+I am currently interested in the field of network and database system research. My specialty is streaming large data processing, using robust algorithms and delicate data structures to make network and data systems perform more efficiently. Before starting my Ph.D., I worked on network sketch-based measurement and analysis, data stream processing algorithms at Peking University.
 
 # Publications
 Yinda Zhang, **Peiqing Chen**. Zaoxing Liu. OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores. to appear in USENIX NSDI 2024 
