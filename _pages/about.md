@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am a third-year Ph.D. student in the Department of Computer Science at the University of Maryland College Park, advised by Prof. [Zaoxing Liu](https://zaoxing.github.io/). Before joining UMD, I received my B.S. from Peking University, advised by [Tong Yang](http://net.pku.edu.cn/~yangtong/).
+
 I am currently interested in the field of network and database system research. My specialty is streaming large data processing, using robust algorithms and delicate data structures to make network and data systems perform more efficiently. Before starting my Ph.D., I worked on network sketch-based measurement and analysis, data stream processing algorithms at Peking University.
 
 # Publications
