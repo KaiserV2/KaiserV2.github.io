@@ -19,9 +19,6 @@ Yinda Zhang, **Peiqing Chen**. Zaoxing Liu. OctoSketch: Enabling Real-Time, Cont
 
 **Peiqing Chen**, Yuhan Wu*, Tong Yang, Junchen Jiang, Zaoxing Liu. Precise Error Estimation for Sketch-based Flow Measurement. ACM IMC 2021 [link](https://github.com/KaiserV2/KaiserV2.github.io/blob/master/files/IMC21.pdf)
 
-# Design Project
-[PKU Ranking](http://pkuranking.com/), Peiqing Chen, Zikun Li, Yuquan Gao. Instructor: [Kaigui Bian](http://net.pku.edu.cn/~bkg/)
-
 # Resume
 [Peiqing Chen Resume](https://github.com/KaiserV2/KaiserV2.github.io/blob/master/files/CV_Peiqing_Chen.pdf)
 
